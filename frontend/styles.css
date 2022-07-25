@@ -1,0 +1,71 @@
+/* Quote top*/
+
+#quote1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 0;
+    
+
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
+
+#welcometxt  {
+    text-align: center;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom:0px ;
+}
+
+.cardlist { 
+    display:flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+}
+
+.card{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* *{
+    margin:0;
+}
+#quote1{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:8px;
+}
+
+nav{
+    background-color: rgb(76, 76, 150);
+    padding: 17px;
+    
+}
+
+nav a{
+    color:white;
+    text-decoration: none;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+    justify-content: space-around;
+} */
+
+
+
+
